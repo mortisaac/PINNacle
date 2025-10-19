@@ -1,4 +1,5 @@
 <img width="1060" height="476" alt="Screenshot 2025-10-19 142850" src="https://github.com/user-attachments/assets/03bf3f93-5d57-45e3-8f2c-b4be77d4bbe5" />
+
 # This is PINN-acle
 PINN-acle uses NNs and PINNs to extract asset Pricing and Volatility - it merges market and news sentiment data to present key features of listed assets. Then it uses an LLM to translate this analysis into clear and actionable insights targeted to consumers and traders.
 
